@@ -1,0 +1,4 @@
+C:\Users\admin\Desktop\STAGE\GESTIONALE-AGENTI\Libreria-Gestionale-Agente\LibreriaGestionaleAgente\bin\Debug\Libreria-Gestionale-Agente.dll
+C:\Users\admin\Desktop\STAGE\GESTIONALE-AGENTI\Libreria-Gestionale-Agente\LibreriaGestionaleAgente\bin\Debug\Libreria-Gestionale-Agente.pdb
+C:\Users\admin\Desktop\STAGE\GESTIONALE-AGENTI\Libreria-Gestionale-Agente\LibreriaGestionaleAgente\obj\Debug\Libreria-Gestionale-Agente.dll
+C:\Users\admin\Desktop\STAGE\GESTIONALE-AGENTI\Libreria-Gestionale-Agente\LibreriaGestionaleAgente\obj\Debug\Libreria-Gestionale-Agente.pdb

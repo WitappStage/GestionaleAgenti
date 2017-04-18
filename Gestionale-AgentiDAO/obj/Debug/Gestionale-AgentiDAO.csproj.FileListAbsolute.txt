@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\STAGE\GESTIONALE-AGENTI\Libreria-Gestionale-Agente\Gestionale-AgentiDAO\bin\Debug\Gestionale-AgentiDAO.dll.config
+C:\Users\admin\Desktop\STAGE\GESTIONALE-AGENTI\Libreria-Gestionale-Agente\Gestionale-AgentiDAO\bin\Debug\Gestionale-AgentiDAO.dll
+C:\Users\admin\Desktop\STAGE\GESTIONALE-AGENTI\Libreria-Gestionale-Agente\Gestionale-AgentiDAO\bin\Debug\Gestionale-AgentiDAO.pdb
+C:\Users\admin\Desktop\STAGE\GESTIONALE-AGENTI\Libreria-Gestionale-Agente\Gestionale-AgentiDAO\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\STAGE\GESTIONALE-AGENTI\Libreria-Gestionale-Agente\Gestionale-AgentiDAO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\STAGE\GESTIONALE-AGENTI\Libreria-Gestionale-Agente\Gestionale-AgentiDAO\bin\Debug\Libreria-Gestionale-Agente.dll
+C:\Users\admin\Desktop\STAGE\GESTIONALE-AGENTI\Libreria-Gestionale-Agente\Gestionale-AgentiDAO\bin\Debug\System.Data.SQLite.dll
+C:\Users\admin\Desktop\STAGE\GESTIONALE-AGENTI\Libreria-Gestionale-Agente\Gestionale-AgentiDAO\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\admin\Desktop\STAGE\GESTIONALE-AGENTI\Libreria-Gestionale-Agente\Gestionale-AgentiDAO\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\admin\Desktop\STAGE\GESTIONALE-AGENTI\Libreria-Gestionale-Agente\Gestionale-AgentiDAO\bin\Debug\Libreria-Gestionale-Agente.pdb
+C:\Users\admin\Desktop\STAGE\GESTIONALE-AGENTI\Libreria-Gestionale-Agente\Gestionale-AgentiDAO\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\STAGE\GESTIONALE-AGENTI\Libreria-Gestionale-Agente\Gestionale-AgentiDAO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\STAGE\GESTIONALE-AGENTI\Libreria-Gestionale-Agente\Gestionale-AgentiDAO\bin\Debug\System.Data.SQLite.xml
+C:\Users\admin\Desktop\STAGE\GESTIONALE-AGENTI\Libreria-Gestionale-Agente\Gestionale-AgentiDAO\obj\Debug\Gestionale-AgentiDAO.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\STAGE\GESTIONALE-AGENTI\Libreria-Gestionale-Agente\Gestionale-AgentiDAO\obj\Debug\Gestionale-AgentiDAO.dll
+C:\Users\admin\Desktop\STAGE\GESTIONALE-AGENTI\Libreria-Gestionale-Agente\Gestionale-AgentiDAO\obj\Debug\Gestionale-AgentiDAO.pdb
